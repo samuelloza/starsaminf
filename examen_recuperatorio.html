@@ -1,0 +1,85 @@
+<html>
+    <!--    <link rel="stylesheet" href="https://cdn.rawgit.com/google/code-prettify/master/styles/sons-of-obsidian.css">    -->
+    <script  src="https://code.jquery.com/jquery-3.3.1.min.js"  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <body>
+         Examen recuperatorio del primer parcial LAB/111 Lic Teran.
+         <h4> Llave </h4>
+         Puedes practicar entrando a este link <a href="https://jv.umsa.bo/problem.php?id=1588" target="_blank">Filtro</a><br>
+         <a href="#" onclick="toggle_visibility('p1588');">Quiero ver la solucion</a>
+
+         <pre class="prettyprint" id="p1588" style="display:none">
+             <code class="language-java">
+               <div w3-include-html="https://raw.githubusercontent.com/starsaminf/solutions/master/patito/p1588.java"></div> 
+             </code>
+         </pre>
+
+        <h4> Otra Suma</h4>
+         Puedes practicar entrando a este link <a href="https://jv.umsa.bo/problem.php?id=1590" target="_blank">Otra Suma</a><br>
+         <a href="#" onclick="toggle_visibility('p1590');">Quiero ver la solucion</a>
+
+         <pre class="prettyprint" id="p1590" style="display:none">
+             <code class="language-java">
+               <div w3-include-html="https://raw.githubusercontent.com/starsaminf/solutions/master/patito/p1590.java"></div>
+             </code>
+         </pre>
+
+            <h4>Digitos Primos  </h4>
+            Puedes practicar entrando a este link <a href="https://jv.umsa.bo/problem.php?id=1591" target="_blank">Digitos Primos</a><br>
+            <a href="#" onclick="toggle_visibility('p1591');">Quiero ver la solucion</a>
+
+            <pre class="prettyprint" id="p1591" style="display:none">
+             <code class="language-java">
+              <div w3-include-html="https://raw.githubusercontent.com/starsaminf/solutions/master/patito/p1591.java"></div>
+             </code>
+         </pre>
+
+    </body>
+    <script type="text/javascript">
+        function toggle_visibility(id) {
+           var e = document.getElementById(id);
+           if(e.style.display == 'block')
+              e.style.display = 'none';
+           else
+              e.style.display = 'block';
+        }
+    </script>
+    
+     <script>
+includeHTML();
+function includeHTML(uri) {
+  var z, i, elmnt, file, xhttp;
+  /*loop through a collection of all HTML elements:*/
+  z = document.getElementsByTagName("*");
+  for (i = 0; i < z.length; i++) {
+    elmnt = z[i];
+    /*search for elements with a certain atrribute:*/
+    file = elmnt.getAttribute("w3-include-html");
+    if (file) {
+      /*make an HTTP request using the attribute value as the file name:*/
+      xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if (this.readyState == 4) {
+          if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+          if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+          /*remove the attribute, and call this function once more:*/
+          elmnt.removeAttribute("w3-include-html");
+          includeHTML();
+        }
+      }
+      xhttp.open("GET", file, true);
+      xhttp.send();
+      /*exit the function:*/
+      return;
+    }
+  }
+}
+</script> 
+<script>
+$(document).ready(function() {
+    var script = document.createElement("script");
+    script.src = "https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js";
+    document.head.appendChild(script);
+});
+</script>
+
+</html>
