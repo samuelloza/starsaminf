@@ -15,13 +15,9 @@
 Yes, I'am 🤪
  
 
-**starsaminf/starsaminf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working secret
-- 🌱 I’m currently learning **Golang**
-- 💬 Ask me about starsaminf@gmail.com
+- 🔭 I’m currently working **Secret**
+- 🌱 I’m currently learning **Golang**, **devOps**
+- 💬 Ask me about Languages programing, Go, php, c++, java, js, bash, anything.
 - 📫 How to reach me: aquicasual.me
 
 
