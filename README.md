@@ -15,10 +15,11 @@
 
 Yes, I'am 🤪
  
-
-- 🔭 I’m currently working **Secret**
-- 🌱 I’m currently learning **Golang**, **devOps**
-- 💬 Ask me about Languages programing, Go, php, c++, java, js, bash, anything.
+<samp>
+- 🔭 I’m currently working on J
+- 💬 Ask me about Languages programing, php, c++, java, js, dotnet.
 - 📫 How to reach me: aquicasual.me
 
-
+<br>
+☕️ ¡Cuando quieras podemos ir por un café, de una gogo!!
+</samp>
