@@ -1,5 +1,3 @@
-### Hi!!! 👋
-
 <img align='right' src='https://github.com/starsaminf/starsaminf/blob/master/magic.gif' width='150"'>  
 
 
