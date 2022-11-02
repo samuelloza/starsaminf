@@ -15,11 +15,11 @@
 
 Yes, I'am 🤪
  
-<samp>
+
 - 🔭 I’m currently working on J
 - 💬 Ask me about Languages programing, php, c++, java, js, dotnet.
 - 📫 How to reach me: aquicasual.me
 
 <br>
 ☕️ ¡Cuando quieras podemos ir por un café, de una gogo!!
-</samp>
+
