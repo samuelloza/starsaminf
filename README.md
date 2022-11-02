@@ -1,6 +1,5 @@
 ### Hi!!! 👋
 
-<img align='left' src='https://raw.githubusercontent.com/starsaminf/starsaminf/master/tenor.gif' width='150"'>  
 <img align='right' src='https://github.com/starsaminf/starsaminf/blob/master/magic.gif' width='150"'>  
 
 
