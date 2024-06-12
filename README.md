@@ -1,4 +1,4 @@
-<img align='right' src='https://github.com/starsaminf/starsaminf/blob/master/magic.gif' width='150"'>  
+<img align='right' src='https://github.com/samuelloza/samuelloza/blob/master/magic.gif' width='150"'>  
 
 
 # Why StarSamInf ?
@@ -7,7 +7,8 @@
 **Sam**  = My name 🤠  
 **Inf**  = Informatics 💻
  
-Yes, I am 🤪
+
+# Now I am (samuelloza)
 
 
 
@@ -25,10 +26,10 @@ Yes, I am 🤪
 
 <h2 align="left"> 👩🏻‍💻 My Performance </h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=starsaminf&count_private=true&show_icons=true&theme=jolly&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuelloza&count_private=true&show_icons=true&theme=jolly&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=starsaminf&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samuelloza&theme=merko)](https://git.io/streak-stats)
 
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starsaminf&layout=compact&count_private=true&theme=jolly&hide_border=true&exclude_repo=MoonBuny)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelloza&layout=compact&count_private=true&theme=jolly&hide_border=true&exclude_repo=MoonBuny)
 
 [![@taicoding's Holopin board](https://holopin.me/zsam)](https://holopin.io/@zsam)
